@@ -1,6 +1,6 @@
 ### Hey!
 
-Im Felix 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
+Im Felix, 20 from 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
 !
 - 🔭 I’m currently working on my startup 🚀
 - 🌱 I’m currently learning Flutter 🧢
