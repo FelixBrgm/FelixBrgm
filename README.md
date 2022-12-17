@@ -7,7 +7,7 @@ Im Felix 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
 - 😄 Pronouns: ...
 - ⚡ Fun fact: This is my bashrc: 
 ```
-// .bashrc
+// .bashrc from FelixBrgm
 export PS1="\W> "
 alias ll="ls -la"
 alias ls="echo && ls | cat && echo"
