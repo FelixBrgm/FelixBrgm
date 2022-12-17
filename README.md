@@ -9,7 +9,7 @@ Im Felix, 20 from Austria 🇦🇹 and I study Software Development 🖥 at 42 H
 // .bashrc from FelixBrgm
 export PS1="\W> "
 alias ll="ls -la"
-alias ls="echo && ls | cat && echo"
+alias ld="echo && ls | cat && echo"
 ```
 - ⚡ Favorite bit of code: 
 ```
