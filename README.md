@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**FelixBrgm/FelixBrgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+Im Felix 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
+!
+- 🔭 I’m currently working on my startup 🚀
+- 🌱 I’m currently learning Flutter 🧢
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: This is my bashrc: 
+```
+export PS1="\W> "
+alias ll="ls -la"
+```
