@@ -1,4 +1,4 @@
-### Hey,
+### Hey!
 
 Im Felix, 20 from Austria 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
 !
