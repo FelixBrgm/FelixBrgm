@@ -18,7 +18,7 @@ kill $(lsof -ti tcp:$1);
 ```
 - ⚡ Favorite bit of code: 
 ```
-// It's a super short version of get_next_line in C
+// It's a super short version of get_next_line in C.
 char *get_next_line(int fd)
 {
   char *s = malloc(10000), *c = s;
