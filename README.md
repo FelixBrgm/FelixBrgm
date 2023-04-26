@@ -2,7 +2,7 @@
 
 Im Felix, 20 from Austria 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
 !
-- 🔭 I’m currently working on [ft_transendence](https://github.com/FelixBrgm/42-ft_transendence) 🐳
+- 🔭 I’m currently working on [ft_transendence](https://github.com/FelixBrgm/42-ft_transendence) 🐳 and my startup 🚀
 - 🌱 I’m currently learning Rust ⚙️ & Flutter 🐦
 - 🎛 This is my .bashrc: 
 ```
