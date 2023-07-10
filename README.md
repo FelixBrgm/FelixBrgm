@@ -26,18 +26,3 @@ char *get_next_line(int fd)
   return s > c ? (*c = '\0') : (free(s), NULL);
 }
 ```
-alias ll="ls -la"
-alias ld="echo && ls | cat && echo"
-alias n="norminette"
-
-alias di="bash /Users/fbruggem/docker_valgrind_setup/init_docker.sh"
-alias db="docker build -t valgrind - < /Users/fbruggem/docker_valgrind_setup/valgrind"
-alias dv='docker run -ti -v $PWD:/code -v "/Users/fbruggem/docker_valgrind_setup/root":/root valgrind bash'
-
-alias clean='bash ~/42toolbox/cleaner.sh'
-alias rs_clean='find . -type f -name "Cargo.toml" -execdir cargo clean \;'
-
-export PATH=$HOME/goinfre/.brew/bin:$PATH
-export PS1="\W> "
-export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-. "$HOME/.cargo/env"
