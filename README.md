@@ -4,8 +4,7 @@ Im Felix, 21 from Austria 🇦🇹 and I study Software Development 🖥 at 42 H
 !
 - 🔭 I’m currently working on [ft_transendence](https://github.com/FelixBrgm/42-ft_transendence) 🐳
 - ⌨️ I’m currently working on building the best possible layout for [my custom heyboard](https://github.com/FelixBrgm/rae-dux)
-- 
-- 🌱 I’m currently learning Rust ⚙️ through beeing the lead software architect and visionary for [CORE](https://github.com/42core-team)
+- 🌱 I’m currently learning Rust ⚙️ through beeing the **lead software architect** and visionary for [CORE](https://github.com/42core-team)
 - 🎛 This is my .bashrc: 
 ```
 // .bashrc from FelixBrgm
