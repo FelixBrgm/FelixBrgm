@@ -1,6 +1,6 @@
 ### Hey!
 
-Im Felix, 21 from Austria 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪, additionally am the **Visionary** and **Lead Software Architect** of [CORE](https://github.com/42core-team)
+Im Felix, 21 from Austria 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
 !
 - 🔭 I’m currently working on [ft_transendence](https://github.com/FelixBrgm/42-ft_transendence) 🐳
 - ⌨️ I’m currently working on building the best possible layout for [my custom heyboard](https://github.com/FelixBrgm/rae-dux)
