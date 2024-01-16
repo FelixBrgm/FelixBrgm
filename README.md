@@ -10,7 +10,6 @@ Im Felix, 21 from Austria 🇦🇹 and I study Software Development 🖥 at 42 H
 // .bashrc from FelixBrgm
 export PS1="\W> "
 alias ll="ls -la"
-alias ld="echo && ls | cat && echo"
 
 # To kill a process that uses a port
 kp(){ 
