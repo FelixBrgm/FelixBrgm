@@ -2,6 +2,7 @@
 
 Im Felix, 21 from Austria 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
 !
+- :telescope: I’m currently working on 42 projects :whale:
 - ⌨️ I’m currently working on building the best possible layout for [my custom keyboard](https://github.com/FelixBrgm/goos)
 - 🌱 I’m currently learning Rust ⚙️
 - 🎛 This is my .bashrc: 
