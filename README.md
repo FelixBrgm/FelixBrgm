@@ -1,6 +1,6 @@
 ### Hey!
 
-Im Felix, 21 from Austria 🇦🇹 and I study Software Development 🖥 at 42 Heilbronn 🇩🇪
+Im Felix, 21 from Austria 🇦🇹 and I build things and communities at 42 Vienna as Pedagogy Co-Lead!
 !
 - :telescope: I’m currently working on 42 projects :whale:
 - ⌨️ I’m currently working on building the best possible layout for [my custom keyboard](https://github.com/FelixBrgm/goos)
