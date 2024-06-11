@@ -25,3 +25,4 @@ char *get_next_line(int fd)
   return c > s ? (*c = '\0', s) : (free(s), NULL);
 }
 ```
+[![fbruggem's 42 stats](https://badge.emaugale.com/api/v2/clxann6k6223901qk66vq03iz/stats?cursusId=21&coalitionId=160)](https://github.com/Zekao/badge42)
