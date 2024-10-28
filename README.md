@@ -5,7 +5,8 @@ I'm Felix, 21 from Austria 🇦🇹 and I build things and communities at 42 Vie
 - ⚙️ a [kernel in rust](https://github.com/kfs)
 - ⌨️ a [custom keyboard with custom layout](https://github.com/FelixBrgm/goos)
 - 🚀  [Coding Challanges](https://github.com/42-Dash)
-- 🎛 This is my .bashrc: 
+
+**🎛 minimal .bashrc so that I can copy it when i need it:**
 ```
 // .bashrc from FelixBrgm
 export PS1="\W> "
@@ -18,7 +19,7 @@ kill $(lsof -ti tcp:$1);
 ```
 - ⚡ Favorite bit of code: 
 ```
-// It's a super short version of get_next_line in C.
+// It's a super short version to get a line from a fd per function call in C.
 char *get_next_line(int fd)
 {
   char *s = malloc(10000), *c = s;
