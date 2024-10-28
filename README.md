@@ -1,9 +1,10 @@
-### Hey!
-
+### Servus!
 I'm Felix, 21 from Austria 🇦🇹 and I build things and communities at 42 Vienna as Pedagogy Co-Lead
-- :telescope: I’m currently working on 42 projects :whale:
-- ⌨️ I’m currently working on building the best possible layout for [my custom keyboard](https://github.com/FelixBrgm/goos)
-- 🌱 I’m currently learning Rust ⚙️
+
+**I love complex systems which brought me to create:**
+- ⚙️ a [kernel in rust](https://github.com/kfs)
+- ⌨️ a [custom keyboard with custom layout](https://github.com/FelixBrgm/goos)
+- 🚀 [Coding Challengase](https://github.com/42-Dash)
 - 🎛 This is my .bashrc: 
 ```
 // .bashrc from FelixBrgm
