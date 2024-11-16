@@ -3,8 +3,8 @@ I'm Felix, 21 from Austria 🇦🇹 and I build things and communities at 42 Vie
 
 **I love complex systems which brought me to create:**
 - ⚙️ a [kernel in rust](https://github.com/kfs)
-- ⌨️ a [custom keyboard with custom layout](https://github.com/FelixBrgm/goos)
 - 🦀 a [rust bootcamp](https://github.com/42-Short)
+- ⌨️ a [custom keyboard with custom layout](https://github.com/FelixBrgm/goos)
 
 **🎛 minimal .bashrc so that I can copy it when i need it:**
 ```
