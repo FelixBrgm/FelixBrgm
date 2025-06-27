@@ -1,7 +1,7 @@
 ### Servus!
-I'm Felix, 21 from Austria 🇦🇹 and I build things and communities at 42 Vienna as Pedagogy Co-Lead
+I'm Felix, 23 from Austria 🇦🇹 and I build things and communities at 42 Vienna as Pedagogy Co-Lead
 
-**I love complex systems which brought me to create:**
+**I love complex systems which brought me to work on:**
 - ⚙️ a [kernel in rust](https://github.com/kentucky-fried-kernel/kfs)
 - 🦀 a [rust bootcamp](https://github.com/42-Short)
 - ⌨️ a [custom keyboard with custom layout](https://github.com/FelixBrgm/goos)
